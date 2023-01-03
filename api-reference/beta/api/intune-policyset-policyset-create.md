@@ -76,8 +76,6 @@ Content-length: 317
   "@odata.type": "#microsoft.graph.policySet",
   "displayName": "Display Name value",
   "description": "Description value",
-  "status": "validating",
-  "errorCode": "unauthorized",
   "guidedDeploymentTags": [
     "Guided Deployment Tags value"
   ],
